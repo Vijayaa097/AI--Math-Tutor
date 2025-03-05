@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sympy
+openai
+pydantic
+dotenv
+transformers
+torch
